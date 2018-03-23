@@ -2,5 +2,18 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="G:/OUPI_Automation/JAR FILES SAMPLE/JARS/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="G:/OUPI_Automation/JAR FILES SAMPLE/JARS/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="G:/OUPI_Automation/JAR FILES SAMPLE/JARS/extentreports-java-2.41.1.jar"/>
+	<classpathentry kind="lib" path="G:/OUPI_Automation/JAR FILES SAMPLE/JARS/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="G:/OUPI_Automation/JAR FILES SAMPLE/JARS/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="G:/OUPI_Automation/JAR FILES SAMPLE/JARS/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="G:/OUPI_Automation/JAR FILES SAMPLE/JARS/poi-examples-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="G:/OUPI_Automation/JAR FILES SAMPLE/JARS/poi-excelant-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="G:/OUPI_Automation/JAR FILES SAMPLE/JARS/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="G:/OUPI_Automation/JAR FILES SAMPLE/JARS/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="G:/OUPI_Automation/JAR FILES SAMPLE/JARS/poi-scratchpad-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="G:/OUPI_Automation/JAR FILES SAMPLE/JARS/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="lib" path="G:/OUPI_Automation/JAR FILES SAMPLE/JARS/xmlbeans-2.6.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
